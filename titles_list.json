@@ -1,0 +1,52 @@
+{
+  "Блага Димитрова": [
+    {
+      "text_id": 1530,
+      "title": "Лавина",
+      "url": "https://chitanka.info/book/1530-lavina"
+    },
+    {
+      "text_id": 4472,
+      "title": "Пътуване към себе си",
+      "url": "https://chitanka.info/book/4472-pytuvane-kym-sebe-si"
+    },
+    {
+      "text_id": 9952,
+      "title": "Отклонение",
+      "url": "https://chitanka.info/book/9952-otklonenie"
+    },
+    {
+      "text_id": 8444,
+      "title": "Ключ",
+      "url": "https://chitanka.info/book/8444-kljuch"
+    }
+
+  ],
+  "Емилиян Станев": [
+    {
+      "text_id": 1867,
+      "title": "Антихрист",
+      "url": "https://chitanka.info/book/1867-antihrist"
+    },
+    {
+      "text_id": 4114,
+      "title": "Лакомото мече",
+      "url": "https://chitanka.info/book/4114-lakomoto-meche"
+    },
+    {
+      "text_id": 3796,
+      "title": "През води и гори",
+      "url": "https://chitanka.info/book/3796-prez-vodi-i-gori"
+    },
+    {
+      "text_id": 4107,
+      "title": "Повест за една гора",
+      "url": "https://chitanka.info/book/4107-povest-za-edna-gora"
+    },
+    {
+      "text_id": 691,
+      "title": "Вълчи нощи; Когато скрежът се топи; Чернишка",
+      "url": "https://chitanka.info/book/691-vylchi-noshti-kogato-skrezhyt-se-topi-chernishka"
+    }
+  ]
+}
